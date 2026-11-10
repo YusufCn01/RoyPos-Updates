@@ -1,9 +1,23 @@
 {
-    "Version":  "3.23.5",
-    "DownloadUrl":  "https://github.com/YusufCn01/RoyPos-Updates/releases/download/v3.23.5/RoyPos_Update.zip",
-    "ZipUrl":  "https://github.com/YusufCn01/RoyPos-Updates/releases/download/v3.23.5/RoyPos_Update.zip",
-    "ReleaseNotes":  "RoyPOS OTA Guncelleme - Temp Runner Duzeltmesi",
+    "Version":  "3.23.6",
+    "DownloadUrl":  "https://github.com/YusufCn01/RoyPos-Updates/releases/download/v3.23.6/RoyPos_Update.zip",
+    "ZipUrl":  "https://github.com/YusufCn01/RoyPos-Updates/releases/download/v3.23.6/RoyPos_Update.zip",
+    "ReleaseNotes":  "Kampanyalar ve urun secici modulu guncellendi, guncelleyici dosya kilidi korumasi eklendi, genel stabilite ve performans iyilestirmeleri yapildi.",
     "Mandatory":  false,
+    "IsMandatory":  false,
     "HasUpdate":  true,
-    "ReleaseDate":  "2026-11-10T01:27:05"
+    "ReleaseDate":  "2026-11-10T23:14:01",
+    "TargetTenantCode":  "ALL",
+    "TargetTenants":  [
+                          "ALL"
+                      ],
+    "AllowedLicenses":  [
+
+                        ],
+    "AllowedHwids":  [
+
+                     ],
+    "ExcludedTenants":  [
+
+                        ]
 }
